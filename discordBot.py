@@ -9,6 +9,7 @@ from discord.ext import commands
 def bot():
     intents = discord.Intents.all()
     TOKEN = ''
+    filePath = ''
     bot = commands.Bot(command_prefix = '!', intents=intents)
     
     emoji = None
