@@ -8,7 +8,7 @@ from discord.ext import commands
 
 def bot():
     intents = discord.Intents.all()
-    TOKEN = 'OTE1NDYwMDU2NzA1ODE0NTQ4.Yab6nQ.f7jOab9Xt96Uj2-va1o04ZQ9G94'
+    TOKEN = ''
     bot = commands.Bot(command_prefix = '!', intents=intents)
     
     emoji = None
