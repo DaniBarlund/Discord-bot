@@ -18,7 +18,7 @@ when it came to playing Valheim.
 ![server](https://github.com/DaniBarlund/Discord-bot/blob/main/photos/server.png?raw=true)
 
 ### Example of coinflip:
-![server](https://github.com/DaniBarlund/Discord-bot/blob/main/photos/coinflip.png?raw=true)
+![coinflip](https://github.com/DaniBarlund/Discord-bot/blob/main/photos/cointoss.png?raw=true)
 
 ## How to use?
 1. Download discordBot.py file
